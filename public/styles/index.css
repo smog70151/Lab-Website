@@ -1,0 +1,45 @@
+.photo {
+  max-width: 70%;
+  border-radius: 50%;
+  text-align: center !important;
+  margin: 0 auto;
+}
+
+.header-bg {
+		background-color: rgba(255, 255, 255, 0.1);
+		border-radius: 1rem;
+}
+
+.header-text {
+    color: white;
+    text-shadow: 0 0 12px #000000;
+}
+
+.map {
+    display:table-cell; /* (specs: omitted table parts, the browser will insert mandatory elements in the dom tree) */
+    position:relative;
+    padding:; /* optional, margins ignored */
+    width:100vw; /* any value */
+    height:1vh; /* will expand by the :before element */
+    overflow:hidden; /* hide eventual black bars */
+    background:tan; /* bg-colors just for demo testing */
+    vertical-align:middle;
+    text-align:center;
+}
+.map:before {
+    display:block;
+    padding-top:56%; /* keeps the 16/9 ratio for the AP */
+    height:0;
+    background:red;
+    content:"\a0";
+}
+.map iframe {
+    position:absolute; /* to be ratio consistent */
+    top:-.5%;
+    left:-.5%; /* overflow eventual black bars */
+    border:0;
+    width:101%; /* grow some to avoid thinner black bars */
+    height:101%;
+    overflow:hidden; /* for html5 browsers the html attribute is depreciated */
+    background:gold;
+}
