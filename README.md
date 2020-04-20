@@ -1,4 +1,10 @@
 # Lab Website
 
 ### Framework
-	- Laravel
+* Laravel
+
+### pages
+- Index
+- Members
+- Research
+- Courses
