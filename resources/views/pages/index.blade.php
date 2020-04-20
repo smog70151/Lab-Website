@@ -71,16 +71,10 @@
 										<i class="fas fa-info-circle"></i>
 										 INFO
 									</button>
-									<a href="https://ieeexplore.ieee.org/document/8963921">
+									<a href="https://www.sciencedirect.com/science/article/pii/S0925231219316352">
 										<button class="btn btn-outline-secondary btn-sm">
 											<i class="far fa-file-pdf"></i>
 											 PDF
-										</button>
-									</a>
-									<a href="https://github.com/bwtseng/Compressive-Privacy-Generative-Adversarial-Netowork">
-										<button class="btn btn-outline-secondary btn-sm">
-											<i class="fab fa-github"></i>
-											 CODE
 										</button>
 									</a>
 								</p>
