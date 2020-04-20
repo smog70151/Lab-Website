@@ -9,16 +9,20 @@
 	<div class="row h-100 py-5">
 		<div class="col-sm-10 offset-md-2 col-md-3 h-25 align-self-center">
 			<div class="text-center">
-				<a href="#professor">
-					<img class="bg-group" src="{{ asset('images/members/professor.png') }}" alt="Professor" class="img-thumbnail">
-				</a>
+				<figure class="sniper">
+					<img src="{{ asset('images/members/professor.png') }}" alt="Professor" >
+  				<figcaption class="text-center"> Professor </figcaption>
+  				<a href="#professor"></a>
+				</figure>
 			</div>
     </div>
     <div class="col-sm-10 offset-md-2 col-md-3 h-25 align-self-center">
 			<div class="text-center">
-				<a href="#students">
-					<img class="bg-group" src="{{ asset('images/members/boy.png') }}" alt="Students" class="img-thumbnail">
-				</a>
+				<figure class="sniper">
+					<img src="{{ asset('images/members/boy.png') }}" alt="Students" >
+  				<figcaption class="text-center"> Students </figcaption>
+  				<a href="#students"></a>
+				</figure>
 			</div>
 		</div>
 	</div>
