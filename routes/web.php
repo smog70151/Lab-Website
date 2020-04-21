@@ -18,7 +18,15 @@ Route::get('/', function() {
 });
 
 Route::get('/members', function() {
-  return view('pages.members');
+  return view('pages.members', ['mode' => 'null']);
+});
+
+Route::get('/members/professor', function() {
+  return view('pages.members', ['mode' => 'professor']);
+});
+
+Route::get('/members/students', function() {
+  return view('pages.members', ['mode' => 'students']);
 });
 
 Route::get('/research', function() {
