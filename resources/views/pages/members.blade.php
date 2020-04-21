@@ -33,6 +33,11 @@
 	<div id="professor">
 		<div class="container py-5">
 			<!-- Profile -->
+			<div class="row h-100 py-4">
+				<div class="class-sm-12 offset-md-1">
+					<h3><i class="fas fa-id-card"></i><b> About ME </b></h3>
+				</div>
+			</div>
 			<div class="row h-100">
 		    <div class="col-sm-12 col-md-6 my-auto align-items-center align-self-center justify-content-center">
 		      <img class="mx-auto d-block photo" src="/images/members/pywu.jpg" alt="Selfie">
