@@ -201,7 +201,36 @@
 	@if($mode === "students")
 	<div id="students">
 		<div class="container py-3">
+			<!-- 109  -->
+			<div class="row">
+				<h3><i class="fas fa-school"></i><b> 109 年 </b></h3>
+			</div>
+			<hr>
 			<div class="row justify-content-around">
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100012914590751/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>慶豐 CHEN</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
+			</div>
+			<!-- 108 -->
+			<div class="row">
+				<h3><i class="fas fa-school"></i><b> 108 年 </b></h3>
+			</div>
+			<hr>
+			<div class="row justify-content-around">
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/1047561865/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>Joanne SHEN</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
+
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
 		      <img src="https://graph.facebook.com/v2.2/100000197921547/picture?type=large" class="img-thumbnail">
 					<figcaption>
@@ -230,26 +259,88 @@
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
-		      <img src="{{ asset('images/members/boy.png') }}" class="img-thumbnail">
+		      <img src="https://graph.facebook.com/v2.2/100000487461254/picture?type=large" class="img-thumbnail">
 					<figcaption>
-				    <h3>Johnny Liao</h3>
+				    <h3>Kevin Yang</h3>
 				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
-		      <img src="{{ asset('images/members/boy.png') }}" class="img-thumbnail">
+		      <img src="https://graph.facebook.com/v2.2/100002159856179/picture?type=large" class="img-thumbnail">
 					<figcaption>
-				    <h3>Johnny Liao</h3>
+				    <h3>Maple Hong</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
+			</div>
+			<!-- 107 -->
+			<div class="row">
+				<h3><i class="fas fa-school"></i><b> 107 年 </b></h3>
+			</div>
+			<hr>
+			<div class="row justify-content-around">
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100000887775872/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>BOMIN HSU</h3>
 				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
 
-				<div class="gallery_member col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
-		      <img src="http://fakeimg.pl/365x365/" class="img-thumbnail">
-		    </div>
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100000307880041/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>PETER Chao</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
+
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100004106070462/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3> + WHITE</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
+			</div>
+			<!-- 106  -->
+			<div class="row">
+				<h3><i class="fas fa-school"></i><b> 106 年 </b></h3>
+			</div>
+			<hr>
+			<div class="row justify-content-around">
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100002358020755/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>BOWEI TSENG</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
+
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100004036974003/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>+0 CHANG</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
+
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100000653708780/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>TOM LIN</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
 			</div>
 		</div>
 	</div>

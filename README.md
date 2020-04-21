@@ -12,6 +12,5 @@
 ### Undo
 1. Memebers/Professor RWD
 2. Research
-3. Courses
-4. Deploy
-5. HTTPS
+3. Deploy
+4. HTTPS
