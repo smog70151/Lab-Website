@@ -35,7 +35,7 @@
 		<div class="container py-5">
 			<!-- Profile -->
 			<div class="row h-100 py-4">
-				<div class="class-sm-12 offset-md-1">
+				<div class="class-sm-11 offset-sm-1">
 					<h3><i class="fas fa-id-card"></i><b> About ME </b></h3>
 				</div>
 			</div>
@@ -49,7 +49,7 @@
 		  </div>
 			<!-- Contact Info-->
 			<div class="row h-100 py-4">
-				<div class="class-sm-12 offset-md-1">
+				<div class="class-sm-11 offset-sm-1">
 						<h3><i class="fas fa-address-card"></i><b> Contact Info </b></h3>
 						<hr>
 						<ul>
@@ -62,7 +62,7 @@
 			</div>
 			<!-- Publications -->
 			<div class="row h-100 py-1">
-				<div class="class-sm-12 offset-md-1">
+				<div class="class-sm-11 offset-sm-1">
 					<h3><i class="fas fa-server"></i><b> Publications </b></h3>
 					<table class="table table-hover py-3">
 						<thead>
