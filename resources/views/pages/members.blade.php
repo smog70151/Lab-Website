@@ -29,6 +29,7 @@
 @endsection
 
 @section('prototype-content')
+  <!-- Professor -->
 	@if($mode === 'professor')
 	<div id="professor">
 		<div class="container py-5">
@@ -196,31 +197,57 @@
 		</div>
 	</div>
 	@endif
+	<!-- Students -->
 	@if($mode === "students")
 	<div id="students">
-		<div class="container py-5">
-			<div class="row">
-				<div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
-		      <img src="{{ asset('images/members/girl.png') }}" class="img-thumbnail">
-		    </div>
+		<div class="container py-3">
+			<div class="row justify-content-around">
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100000197921547/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>Johnny Liao</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
 
-				<div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100001379402482/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>Alex Chao</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
+
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
+		      <img src="https://graph.facebook.com/v2.2/100002083167926/picture?type=large" class="img-thumbnail">
+					<figcaption>
+				    <h3>Ann Chen</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
+
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
 		      <img src="{{ asset('images/members/boy.png') }}" class="img-thumbnail">
-		    </div>
+					<figcaption>
+				    <h3>Johnny Liao</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
 
-				<div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
+				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
 		      <img src="{{ asset('images/members/boy.png') }}" class="img-thumbnail">
-		    </div>
+					<figcaption>
+				    <h3>Johnny Liao</h3>
+				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				  </figcaption>
+				  <a href="#"></a>
+		    </figure>
 
-				<div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
-		      <img src="{{ asset('images/members/boy.png') }}" class="img-thumbnail">
-		    </div>
-
-				<div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
-		      <img src="{{ asset('images/members/girl.png') }}" class="img-thumbnail">
-		    </div>
-
-				<div class="gallery_product col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
+				<div class="gallery_member col-lg-3 col-md-3 col-sm-3 col-xs-6 filter hdpe">
 		      <img src="http://fakeimg.pl/365x365/" class="img-thumbnail">
 		    </div>
 			</div>

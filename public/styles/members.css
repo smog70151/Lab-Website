@@ -113,7 +113,7 @@
  * Students Gallery Effect
  */
 
-.snip1361 {
+.gallery_member {
   font-family: 'Quattrocento', Arial, sans-serif;
   position: relative;
   overflow: hidden;
@@ -126,24 +126,24 @@
   line-height: 1.4em;
   font-size: 16px;
 }
-.snip1361 * {
+.gallery_member * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   -webkit-transition: all 0.35s ease;
   transition: all 0.35s ease;
 }
-.snip1361 img {
+.gallery_member img {
   max-width: 100%;
   vertical-align: top;
 }
-.snip1361 figcaption {
+.gallery_member figcaption {
   position: absolute;
-  top: calc(77%);
+  top: calc(80%);
   width: 100%;
   background-color: #ffffff;
   padding: 15px 25px 65px;
 }
-.snip1361 figcaption:before {
+.gallery_member figcaption:before {
   position: absolute;
   content: '';
   z-index: 2;
@@ -154,23 +154,23 @@
   background-image: -webkit-linear-gradient(top, transparent 0%, #ffffff 100%);
   background-image: linear-gradient(to bottom, transparent 0%, #ffffff 100%);
 }
-.snip1361 h3,
-.snip1361 p {
+.gallery_member h3,
+.gallery_member p {
   margin: 0 0 10px;
 }
-.snip1361 h3 {
+.gallery_member h3 {
   font-weight: 300;
   font-size: 1.4em;
   line-height: 1.2em;
   font-family: 'Oswald', Arial, sans-serif;
   text-transform: uppercase;
 }
-.snip1361 p {
+.gallery_member p {
   font-size: 0.9em;
   letter-spacing: 1px;
   opacity: 0.9;
 }
-.snip1361 a {
+.gallery_member a {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -178,9 +178,9 @@
   right: 0;
   z-index: 2;
 }
-.snip1361:hover figcaption,
-.snip1361.hover figcaption {
-  top: 80px;
+.gallery_member:hover figcaption,
+.gallery_member.hover figcaption {
+  top: 75px;
 }
 
 /*
