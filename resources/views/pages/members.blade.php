@@ -210,8 +210,11 @@
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
 		      <img src="https://graph.facebook.com/v2.2/100012914590751/picture?type=large" class="img-thumbnail">
 					<figcaption>
-				    <h3>慶豐 CHEN</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+				    <h3> 陳慶豐 </h3>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -226,7 +229,10 @@
 		      <img src="https://graph.facebook.com/v2.2/1047561865/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>Joanne SHEN</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -235,7 +241,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100000197921547/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>Johnny Liao</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -244,7 +253,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100001379402482/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>Alex Chao</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -253,8 +265,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100002083167926/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>Ann Chen</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
-				  </figcaption>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  <a href="#"></a>
 		    </figure>
 
@@ -262,7 +276,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100000487461254/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>Kevin Yang</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -271,7 +288,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100002159856179/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>Maple Hong</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -286,7 +306,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100000887775872/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>BOMIN HSU</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -295,7 +318,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100000307880041/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>PETER Chao</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -304,7 +330,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100004106070462/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3> + WHITE</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -319,7 +348,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100002358020755/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>BOWEI TSENG</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -328,7 +360,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100004036974003/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>+0 CHANG</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>
@@ -337,7 +372,10 @@
 		      <img src="https://graph.facebook.com/v2.2/100000653708780/picture?type=large" class="img-thumbnail">
 					<figcaption>
 				    <h3>TOM LIN</h3>
-				    <p>Weekends don't count unless you spend them doing something completely pointless.</p>
+						<p>
+							研究方向: 隱私維護機器學習 <br />
+							信箱: r08921a08 [AT] ntu.edu.tw
+						</p>
 				  </figcaption>
 				  <a href="#"></a>
 		    </figure>

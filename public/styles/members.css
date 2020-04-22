@@ -180,7 +180,7 @@
 }
 .gallery_member:hover figcaption,
 .gallery_member.hover figcaption {
-  top: 75px;
+  top: 6rem;
 }
 
 /*
