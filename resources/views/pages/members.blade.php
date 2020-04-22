@@ -216,7 +216,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 			</div>
 			<!-- 108 -->
@@ -234,7 +233,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
@@ -246,7 +244,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
@@ -258,7 +255,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
@@ -269,7 +265,6 @@
 							研究方向: 隱私維護機器學習 <br />
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
-				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
@@ -281,7 +276,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
@@ -293,7 +287,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 			</div>
 			<!-- 107 -->
@@ -311,7 +304,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
@@ -323,7 +315,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
@@ -335,7 +326,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 			</div>
 			<!-- 106  -->
@@ -353,7 +343,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
@@ -365,7 +354,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 
 				<figure class="gallery_member col-md-3 col-sm-3 col-xs-6 filter hdpe">
@@ -377,7 +365,6 @@
 							信箱: r08921a08 [AT] ntu.edu.tw
 						</p>
 				  </figcaption>
-				  <a href="#"></a>
 		    </figure>
 			</div>
 		</div>
