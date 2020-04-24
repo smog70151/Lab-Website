@@ -11,7 +11,7 @@
 			<div class="text-center">
 				<figure class="sniper">
 					<img src="{{ asset('images/members/professor.png') }}" alt="Professor" >
-  				<figcaption class="text-center"> Professor </figcaption>
+  				<figcaption class="text-center"> 教授資訊 </figcaption>
   				<a href="/members/professor"></a>
 				</figure>
 			</div>
@@ -20,7 +20,7 @@
 			<div class="text-center">
 				<figure class="sniper">
 					<img src="{{ asset('images/members/boy.png') }}" alt="Students" >
-  				<figcaption class="text-center"> Students </figcaption>
+  				<figcaption class="text-center"> 學生資訊 </figcaption>
   				<a href="/members/students"></a>
 				</figure>
 			</div>
