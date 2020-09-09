@@ -36,3 +36,8 @@ Route::get('/research', function() {
 Route::get('/courses', function() {
   return view('pages.courses');
 });
+
+// 2020-09-05 SecureML Demo
+Route::get('/demo', function() {
+  return view('pages.demo');
+});
