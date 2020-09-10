@@ -20,3 +20,5 @@
 
 1. Mobile Hover Problem
 2. Members Contact INFO
+3. Courses Descriptions
+4. Web ICON
