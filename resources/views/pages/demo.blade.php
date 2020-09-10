@@ -89,7 +89,7 @@
 					<!-- XXX: Secure Multi-Party Computation Guide -->
 					<li>
             <h4> Secure Multi-Party Computation Guide</h4>
-						<div class="collapse.show" id="fl-related">
+						<div class="collapse.show" id="SMPC-toy-example">
 							<div id="SMPC-toy-example-indicators" class="carousel slide" data-interval="false" data-ride="carousel">
 								<ol class="carousel-indicators">
 							    <li data-target="#SMPC-toy-example-indicators" data-slide-to="0" class="secondary active"></li>
@@ -134,7 +134,7 @@
 								Secure Multi-Party Computation Description
               </p>
               <p class="text-right">
-								<button class="btn btn-outline-secondary btn-sm" data-toggle="collapse" data-target="#fl-related">
+								<button class="btn btn-outline-secondary btn-sm" data-toggle="collapse" data-target="#SMPC-toy-example">
                   <i class="fas fa-chalkboard"></i> Slide
                 </button>
               </p>
@@ -144,13 +144,68 @@
 					<!-- Related work: SecureML: A System for Scalable Privacy-Preserving Machine Learning -->
 					<li>
             <h4> SecureML </h4>
-						<div class="collapse.show" id="fl-related">
-							<!-- <img class="border-0 img-thumbnail" src="{{ asset('images/demo/images.008.jpeg') }}" alt=""> -->
-							<!-- <img class="border-0 img-thumbnail" src="{{ asset('images/demo/images.009.jpeg') }}" alt=""> -->
+						<div class="collapse.show" id="SecureML">
+							<div id="SecureML-indicators" class="carousel slide" data-interval="false" data-ride="carousel">
+								<ol class="carousel-indicators">
+							    <li data-target="#SecureML-indicators" data-slide-to="0" class="secondary active"></li>
+							    <li data-target="#SecureML-indicators" data-slide-to="1"></li>
+							    <li data-target="#SecureML-indicators" data-slide-to="2"></li>
+									<li data-target="#SecureML-indicators" data-slide-to="3"></li>
+									<li data-target="#SecureML-indicators" data-slide-to="4"></li>
+									<li data-target="#SecureML-indicators" data-slide-to="5"></li>
+									<li data-target="#SecureML-indicators" data-slide-to="6"></li>
+									<li data-target="#SecureML-indicators" data-slide-to="7"></li>
+									<li data-target="#SecureML-indicators" data-slide-to="8"></li>
+									<li data-target="#SecureML-indicators" data-slide-to="9"></li>
+									<li data-target="#SecureML-indicators" data-slide-to="10"></li>
+							  </ol>
+							  <div class="carousel-inner">
+							    <div class="carousel-item active">
+							      <img src="{{ asset('images/demo/images.016.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+							    <div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.017.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+							    <div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.018.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+									<div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.019.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+									<div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.020.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+									<div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.021.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+									<div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.022.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+									<div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.023.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+									<div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.024.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+									<div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.025.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+									<div class="carousel-item">
+							      <img src="{{ asset('images/demo/images.026.jpeg') }}" class="d-block w-100" alt="...">
+							    </div>
+							  </div>
+							  <a class="carousel-control-prev" href="#SecureML-indicators" role="button" data-slide="prev">
+							    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							    <span class="sr-only">Previous</span>
+							  </a>
+							  <a class="carousel-control-next" href="#SecureML-indicators" role="button" data-slide="next">
+							    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+							    <span class="sr-only">Next</span>
+							  </a>
+							</div>
 						</div>
 						<blockquote>
               <p>
-
               </p>
               <p class="text-right">
 								<a href="https://ieeexplore.ieee.org/document/7958569" alt="IEEE.7958569">
@@ -159,8 +214,8 @@
 										 Paper
 									</button>
 								</a>
-								<button class="btn btn-outline-secondary btn-sm" data-toggle="collapse" data-target="#fl-related">
-                  <i class="fas fa-chalkboard"></i> Figure
+								<button class="btn btn-outline-secondary btn-sm" data-toggle="collapse" data-target="#SecureML">
+                  <i class="fas fa-chalkboard"></i> Slide
                 </button>
               </p>
             </blockquote>
