@@ -1,13 +1,14 @@
 # Lab Website
 
 ### Framework
-* Laravel
+* Laravel (PHP 7)
 
 ### Pages
 - Index
 - Members
 - Research
 - Courses
+- Demo Template
 
 ### Deploy
 1. git add . (or add Files)
@@ -17,8 +18,7 @@
 4. git push heroku master # FOR HEROKU
 
 ### Undo
-
 1. Mobile Hover Problem
-2. Members Contact INFO
+2. Members Contact INFO & Research fields
 3. Courses Descriptions
 4. Web ICON

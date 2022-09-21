@@ -1,0 +1,59 @@
+.demo-figure {
+  width: 66%;
+}
+
+.header-bg {
+		background-color: rgba(255, 255, 255, 0.1);
+		border-radius: 1rem;
+}
+
+.header-text {
+    color: white;
+    text-shadow: 0 0 12px #000000;
+}
+
+.carousel-indicators li {
+    background-color: rgba(15, 15, 15, 0.6);
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.yt-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.yt-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.multiline-ellipsis {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 10;
+  overflow: hidden;
+}
+
+.pdf-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.pdf-context {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

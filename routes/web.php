@@ -38,6 +38,11 @@ Route::get('/courses', function() {
 });
 
 // 2020-09-05 SecureML Demo
-Route::get('/demo', function() {
-  return view('pages.demo');
+// Route::get('/demo', function() {
+//   return view('pages.demo');
+// });
+
+// 2022-09-21 Demo Template Update
+Route::get('/demo-template', function() {
+  return view('pages.demo-template');
 });
