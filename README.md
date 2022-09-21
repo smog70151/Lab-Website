@@ -15,7 +15,7 @@
 2. git commit -m "[1212] Method - Pages ver-1.0"
 	- $ git commit -m "[0619] Upload - Index Navbar ver-1.5"
 3. git push # FOR GITHUB
-4. git push heroku master # FOR HEROKU
+4. git push heroku master # FOR HEROKU (Just For Example)
 
 ### Undo
 1. Mobile Hover Problem
